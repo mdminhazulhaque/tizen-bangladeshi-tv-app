@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>MyTV</title>
+  <style>
+    ul, li {
+      margin: 0;
+      padding: 0;
+      list-style: none;
+    }
+    ul {
+      width: 1908px;
+    }
+    li {
+      float: left;
+    }
+    button {
+      display: block;
+      width: 318px;
+      height: 357px;
+      font-size: 20px;
+      background-color: #fff;
+    }
+    img {
+   		max-width: 100%; 
+    }
+    button:focus {
+    color: white;
+    background-color: #ccc;
+    }
+  </style>
+
+</head>
+<body>
+
+<ul>
+<li><button><img src="images/ATN.png"></button></li>
+<li><button><img src="images/Channel-i.png"></button></li>
+<li><button><img src="images/ETV.jpg"></button></li>
+<li><button><img src="images/NTV.png"></button></li>
+<li><button><img src="images/RTV.png"></button></li>
+<li><button><img src="images/Banglavision.png"></button></li>
+<li><button><img src="images/Boishakhi_TV_logo.svg"></button></li>
+<li><button><img src="images/Maasranga_Television_Logo.jpg"></button></li>
+<li><button><img src="images/GTVBangladeshLogo.png"></button></li>
+<li><button><img src="images/Channel9_bd.svg"></button></li>
+<li><button><img src="images/Asian_TV_Logo.svg"></button></li>
+<li><button><img src="images/Bangla_Tv_Logo.jpg"></button></li>
+<li><button><img src="images/Deepto_TV_logo.png"></button></li>
+<li><button><img src="images/Desh_tv.png"></button></li>
+<li><button><img src="images/Mohona_Logo.jpeg"></button></li>
+<li><button><img src="images/My_TV_Logo.png"></button></li>
+<li><button><img src="images/SA_TV_Logo.png"></button></li>
+<li><button><img src="images/Duronto_TV_logo.jpg"></button></li>
+</ul>
+
+<script>
+(function(){
+  /* ami jantam tumi extract koira code dekhba, lol! */
+  var list = document.querySelector('ul');
+  var width = list.offsetWidth;
+  var itemwidth = list.firstElementChild.offsetWidth;
+  var addto = Math.floor(width / itemwidth);
+  var allbuttons = list.querySelectorAll('button');
+  var all = allbuttons.length;
+  var codes = {
+    40: addto, 
+    38: -addto,
+    39: 1,
+    37: -1
+  }
+  allbuttons[0].focus();
+  function getkey(ev) {
+    var current = ev.target;
+    for (var i = 0; i < all; i++) {
+      if (allbuttons[i] === current) {
+        break;
+      }
+    }
+    if (allbuttons[i + codes[ev.keyCode]]) {
+      allbuttons[i + codes[ev.keyCode]].focus();
+    }
+  }
+  list.addEventListener('keyup', getkey);
+})();
+</script>
+
+
+</body>
+</html>

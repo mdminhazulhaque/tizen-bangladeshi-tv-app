@@ -1,0 +1,175 @@
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="AuthorSignature">
+<SignedInfo>
+<CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"></CanonicalizationMethod>
+<SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"></SignatureMethod>
+<Reference URI="AUTHORS">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+<DigestValue>quFVIY21+TBnE0PlPc6dDwllRvMOIO+L6iNmr2NHBVfpAQk3xN23OGwHV5vcLJzxOfZ9C+32/g06
++sBjb2hYOw==</DigestValue>
+</Reference>
+<Reference URI="LICENSE.Flora">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+<DigestValue>eMZs49Zoyv8pka7rh1hDfAR9c0J1Mc3Go+Yd/8y3382XiW4+49kRz7KJzjH959FGl3xkQZDNDYWt
+3juskmdDvg==</DigestValue>
+</Reference>
+<Reference URI="NOTICE">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+<DigestValue>6R2XTNsDCKoqH5wUr+gWDc4Fk6sDBYTdubXgZ/fXy6GFuHpRM/cewjZBdvYckJd47pCsTFMgpRX1
+UOFkMrvkjg==</DigestValue>
+</Reference>
+<Reference URI="config.xml">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+<DigestValue>3aYEC3SCTMd0BrYSmShbEKfAfsfp2vblL50BW+EUUDgBX3yoZfyL3ogqIVi5G/ODcIT7sVZSmVGO
+I2jkzUvqNw==</DigestValue>
+</Reference>
+<Reference URI="icon.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+<DigestValue>GKaAX2XA1x2ytXpunzpCzpNiM6szLhEWk+UyKGzAgx6iEs49HNlzLVsTXm2dYiWvEZiiTMz2U6lh
+WCLpOpkL0w==</DigestValue>
+</Reference>
+<Reference URI="images%2FATN.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+<DigestValue>1LnxOoF82XkeEtI4luGBr58T9CE56SCS1F0mQ/jHAO/+By63cnCqAnu7FWyFCulBmNLfI5sQt7u0
+Usf2Dp6mQA==</DigestValue>
+</Reference>
+<Reference URI="images%2FAsian_TV_Logo.svg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+<DigestValue>WuDukCM0/MYbTMs9T+OBUSEPW+SsWaifBTX8Bk+ROcC6bad0UNs7IBi8RIqkhRUgEu6gvYAML+fF
+ZJi1FV/T9w==</DigestValue>
+</Reference>
+<Reference URI="images%2FBangla_Tv_Logo.jpg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+<DigestValue>8mAnv/yTu4thTHV4ftfsn/jvdKQZlLG/YoMKa1BoC07d/+/WdBtqdb68YnZ+KtaDR/WZdyv2tYpr
+5bHGFlIlTg==</DigestValue>
+</Reference>
+<Reference URI="images%2FBanglavision.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+<DigestValue>sm2XEtZCL9ePsYojTsYmtQtLYWGuwMsifcek3pFDjrOa0ZQhEavz8NLNYkIi+VHo6r559LDsfppb
+eEgWlC3CFA==</DigestValue>
+</Reference>
+<Reference URI="images%2FBoishakhi_TV_logo.svg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+<DigestValue>BlZVW35LHFzVjxqaj172fQRJPAThnWPYkD07iIHZZfvmueZ5piZqgm8GQPNIvW6WkVr53SePih2K
+EV/kwGaE9Q==</DigestValue>
+</Reference>
+<Reference URI="images%2FChannel-i.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+<DigestValue>nLjN7rJnsCxV9zQknd+QCOfPsJT89fYRBbZLYhhKqi3zwiZxfpSUW2RwkTPQLh99w6NdBjkAOqjX
+1lbVUFRyOw==</DigestValue>
+</Reference>
+<Reference URI="images%2FChannel9_bd.svg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+<DigestValue>ec8S2vOASRBzecvB3+UKXE70wA0GwzRa1S2KLQxP23cCA1SOqTZ+Ai+erw0wLIfR6EXjokNCnp59
+Tf+YeJokRg==</DigestValue>
+</Reference>
+<Reference URI="images%2FDeepto_TV_logo.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+<DigestValue>AfpysTbxCeyBHFaBqNTAL1Jp3NzDqATdq2tPVGF+F94l3Hifydflso3QeGHYLi/zMoZXrWMvB0Kz
+rYbvKvpZhQ==</DigestValue>
+</Reference>
+<Reference URI="images%2FDesh_tv.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+<DigestValue>GhFPgcKXrh31LAm8AgtFoEdIsjnPqxMRD/L+JwkW/07hwBx2mRgnOAhGbMOsOOKmw8NfKM4BcI28
+cJzLNHp72Q==</DigestValue>
+</Reference>
+<Reference URI="images%2FDuronto_TV_logo.jpg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+<DigestValue>mXkSFOQrNfE3EHb55Gmj37V5leI34zsvIjOCSX35jlCWkct46DNTgn1fkuO2/NfpxRCRN9v8UTdZ
+r4B2PxwbqQ==</DigestValue>
+</Reference>
+<Reference URI="images%2FETV.jpg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+<DigestValue>FAa2GXeUPM5TG6x6WrgUcpOHUgYcY5nU4e3pZojyKpyfQmrXcmb3FqLuN4RbzWbUa0FVPOwwjPUC
+FJaF2zwkxw==</DigestValue>
+</Reference>
+<Reference URI="images%2FGTVBangladeshLogo.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+<DigestValue>cseKez6nhgaZSCSdThEFzCbzkqmetMpDaC8M5DA769nEoRtO16Ed9r327YniWJuGlBsCCCWkQ74m
+RmzZuW9QhQ==</DigestValue>
+</Reference>
+<Reference URI="images%2FMaasranga_Television_Logo.jpg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+<DigestValue>pSW0hWUj8zZeoOLV2zCVyq5Lj6O0MY0veVcpjH0BS9zlYWIxkhDleLrDHPYJFrd5MLpK+b7ir1x5
+uxRa6s5pvQ==</DigestValue>
+</Reference>
+<Reference URI="images%2FMohona_Logo.jpeg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+<DigestValue>Pq3OjmolcKzXHWJYL+uJvWqQGXmc/b87DtcrNIPmwcaEWwzkcUhZoNjp/kkpnGX6I6AAbmu28Tss
+lJl0vAQNPg==</DigestValue>
+</Reference>
+<Reference URI="images%2FMy_TV_Logo.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+<DigestValue>ltMCP8q+F/BuHObcvrbvdCBqWgFZJoCOUBsGAyiy4I99LUIg19s97AtTSvBC1s52IJ9AAbnkxKaB
+6OMxMa/nhA==</DigestValue>
+</Reference>
+<Reference URI="images%2FNTV.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+<DigestValue>engzJmMCAe1/aBV8t2qZa532YANti9NoMCbN9V4o8tEU2sqnHIEw8vT5o1oO9EGBz7FqWovEyx/k
+v3mg5YbBAg==</DigestValue>
+</Reference>
+<Reference URI="images%2FRTV.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+<DigestValue>j3g103sMq4AFTM9w+gF0kNSxO9jB+aZMkDSZG5ctic1tc3er6j/7AZK2uCz4CW1am8l16k5XxBIo
+UxzmAvjhXw==</DigestValue>
+</Reference>
+<Reference URI="images%2FSA_TV_Logo.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+<DigestValue>DzPSieSZcCtx7d55MHoDTQ7n/0sf+l5cG9t0Z4j6F7EEPe5mTmoEbPNPZ0s0BCn7Uxeb6dAay3/H
+31BMRKp5ow==</DigestValue>
+</Reference>
+<Reference URI="index.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+<DigestValue>Or3ipI+LoKJnMV7wZbKeAcq5HZrLrFjinuAJEPY6QDoAvtIM1Yrp5V5meCyM1CVqgVmV5hWhNFPe
+YBP+Bj8JPA==</DigestValue>
+</Reference>
+<Reference URI="#prop">
+<Transforms>
+<Transform Algorithm="http://www.w3.org/2006/12/xml-c14n11"></Transform>
+</Transforms>
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"></DigestMethod>
+<DigestValue>aXbSAVgmAz0GsBUeZ1UmNDRrxkWhDUVGb45dZcNRq429wX3X+x6kaXT3NdNDTSNVTU+ypkysPMGv
+QY10fG1EWQ==</DigestValue>
+</Reference>
+</SignedInfo>
+<SignatureValue>
+r+4bgLHASoocCCKtsVWhCklOWBL+iH6QiM59T08JuIh+5uQD1+NZxrjvYoNeIZMwxkBV4v5RHPG+
+AvXJxg+uyZhkErLAbE7Gz73v7pS5pgl67WVFFRM2GW7t40riU6ikIySsfhvGGOfujn3E00qinT8m
+Txg6BtkcHGnNMpzfJ4A=
+</SignatureValue>
+<KeyInfo>
+<X509Data>
+<X509Certificate>
+MIICoTCCAYmgAwIBAgIGAXaLwsZkMA0GCSqGSIb3DQEBDQUAMFYxGjAYBgNVBAoMEVRpemVuIEFz
+c29jaWF0aW9uMRowGAYDVQQLDBFUaXplbiBBc3NvY2lhdGlvbjEcMBoGA1UEAwwTVGl6ZW4gRGV2
+ZWxvcGVycyBDQTAeFw0yMDEyMjIxODQyNDZaFw0yNzAxMDEwMDAwMDBaMB0xGzAZBgNVBAMMEk1k
+LiBNaW5oYXp1bCBIYXF1ZTCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAtNgJRYGXDBv+b0s7
+zn74zfzgalzvaKP5k2pePOnqXtIREisfPrHdt77TotIeE/SjZvWretX5PZgVgR9MXgOj9yChkFBM
+Xqu0UCxR0jFyHpzw3JhGAhALMGAgwL3IyASbF3EloJe40C2gv3PZQe6eRr9vFIFiB4BHfhzQCbt1
+UGUCAwEAAaMyMDAwDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCB4AwEwYDVR0lBAwwCgYIKwYBBQUH
+AwMwDQYJKoZIhvcNAQENBQADggEBADdOAWMJ0L0shSw5hjHipxC1MQy/Kh1k6MaXGg/ZTptPXNjE
+Q9xqw3oN0PHBBfv0+a4Trut5RUmkqEgxWZLrTK1w1+sWn2iL2v6EQTOf3RZWUUDpujpZ5smEaGqb
+pyxy1EPJDq3s2PaHHOJYbVuFrSbZLhiztbnEWyJfkS2Fmf/3bgrpMSyJVF0kkayuEAZRBWWPzGjN
+4K8Y52aT3UvmbX6SqoKcSKItB34ztUAFDMcs9VveFoQQ+wwLA11K8yw5WsziJznvKldn8B4WY0tj
+Ru8/XIww0TDLaqO0Cqdw6YHRepd0qCnjx3SfpibEgDHMOomhCYZ3OqgjeovEce/OAjU=
+</X509Certificate>
+<X509Certificate>
+MIIDOTCCAiGgAwIBAgIBATANBgkqhkiG9w0BAQUFADBYMRowGAYDVQQKDBFUaXplbiBBc3NvY2lh
+dGlvbjEaMBgGA1UECwwRVGl6ZW4gQXNzb2NpYXRpb24xHjAcBgNVBAMMFVRpemVuIERldmVsb3Bl
+cnMgUm9vdDAeFw0xMjAxMDEwMDAwMDBaFw0yNzAxMDEwMDAwMDBaMFYxGjAYBgNVBAoMEVRpemVu
+IEFzc29jaWF0aW9uMRowGAYDVQQLDBFUaXplbiBBc3NvY2lhdGlvbjEcMBoGA1UEAwwTVGl6ZW4g
+RGV2ZWxvcGVycyBDQTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBANVGhRGmMIUyBA7o
+PCz8Sxut6z6HNkF4oDIuzuKaMzRYPeWodwe9O0gmqAkToQHfwg2giRhE5GoPld0fq+OYMMwSasCu
+g8dwODx1eDeSYVuOLWRxpAmbTXOsSFi6VoWeyaPEm18JBHvZBsU5YQtgZ6Kp7MqzvQg3pXOxtajj
+vyHxiatJl+xXrHgcXC1wgyG3buty7u/Fi2mvKXJ0PRJcCjjK81dqe/Vr20sRUCrbk02zbm5ggFt/
+jIEhV8wbFRQpliobc7J4dSTKhFfrqGM8rdd54LYhD7gSI1CFSe16pUXfcVR7FhJztRaiGLnCrwBE
+dyTZ248+D4L/qR/D0axb3jcCAwEAAaMQMA4wDAYDVR0TBAUwAwEB/zANBgkqhkiG9w0BAQUFAAOC
+AQEAnOXXQ/1O/QTDHyrmQDtFziqPY3xWlJBqJtEqXiT7Y+Ljpe66e+Ee/OjQMlZe8gu21/8cKklH
+95RxjopMWCVedXDUbWdvS2+CdyvVW/quT2E0tjqIzXDekUTYwwhlPWlGxvfj3VsxqSFq3p8Brl04
+1Gx5RKAGyKVsMfTLhbbwSWwApuBUxYfcNpKwLWGPXkysu+HctY03OKv4/xKBnVWiN8ex/Sgesi0M
++OBAOMdZMPK32uJBTeKFx1xZgTLIhk45V0hPOomPjZloiv0LSS11eyd451ufjW0iHRE7WlpR6EvI
+W6TFyZgMpQq+kg4hWl2SBTf3s2VI8Ygz7gj8TMlClg==
+</X509Certificate>
+</X509Data>
+</KeyInfo>
+<Object Id="prop"><SignatureProperties xmlns:dsp="http://www.w3.org/2009/xmldsig-properties"><SignatureProperty Id="profile" Target="#AuthorSignature"><dsp:Profile URI="http://www.w3.org/ns/widgets-digsig#profile"></dsp:Profile></SignatureProperty><SignatureProperty Id="role" Target="#AuthorSignature"><dsp:Role URI="http://www.w3.org/ns/widgets-digsig#role-author"></dsp:Role></SignatureProperty><SignatureProperty Id="identifier" Target="#AuthorSignature"><dsp:Identifier></dsp:Identifier></SignatureProperty></SignatureProperties></Object>
+</Signature>
